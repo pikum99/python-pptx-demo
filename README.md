@@ -77,10 +77,6 @@ BRAND_COLOR = RGBColor(0, 51, 102)  # ブランドカラー
 10. アクションプラン（階層的箇条書き）
 11. まとめスライド
 
-## ライセンス
-
-MIT License
-
 ## 参考リンク
 
 - [python-pptx Documentation](https://python-pptx.readthedocs.io/)
